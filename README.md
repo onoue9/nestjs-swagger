@@ -4,7 +4,8 @@
 Este projeto tem como objetivo testar a CLI do NestJS para gerar a documentação Swagger automaticamente. Ele é um exemplo básico de CRUD para gerenciar livros, utilizando NestJS como framework backend.  
 
 ## ✨ Principais Funcionalidades  
-- Gerar documentação Swagger utilizando a CLI do `@nestjs/swagger` <https://docs.nestjs.com/openapi/cli-plugin>.
+- Gerar documentação Swagger utilizando a CLI do [`@nestjs/swagger`](https://docs.nestjs.com/openapi/cli-plugin).
+
 - Implementar operações CRUD para livros:  
   - Criar, listar, atualizar e deletar livros.  
 - Expor a documentação Swagger em uma rota acessível.  
