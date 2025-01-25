@@ -20,8 +20,8 @@ Este projeto tem como objetivo testar a CLI do NestJS para gerar a documentaçã
 ### Passos para instalação  
 1. Clone o repositório:  
    ```bash
-   git clone <git@github.com:onoue9/nestjs-swagger.git>
-   cd <nestjs-swagger>
+   git clone git@github.com:onoue9/nestjs-swagger.git
+   cd nestjs-swagger
    ```
 2. Instale as dependências:  
    ```bash
